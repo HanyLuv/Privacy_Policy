@@ -14,7 +14,7 @@ HanyLuv은(는) 개인정보를 다음의 목적을 위해 처리합니다. 처�
 * Google
 * Facebook
 
-HanyLuv의 Application을 통해 개인정보가 제공되는 자는 위와 같으며, Google과 FaceBook의 보유 및 이용기간, 파기 절차와 파기방법을 따릅니다. 
+HanyLuv의 Application을 통해 개인정보가 제공되는 자는 위와 같으며, Google과 Facebook의 보유 및 이용기간, 파기 절차와 파기방법을 따릅니다. 
 
 ## 수집 항목
 마케팅 및 광고에 활용을위해 기기로부터 얻는 정보는 다음과 같습니다. 
